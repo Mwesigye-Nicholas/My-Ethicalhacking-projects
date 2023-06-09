@@ -38,3 +38,6 @@ I open up another terminal and use the netcat(nc) command which help us establis
 
 ![project image 7](https://github.com/Mwesigye-Nicholas/My-Ethicalhacking-projects/assets/111627142/eea42160-bb9e-4730-946f-0edff155db6c)
 
+THIS ENDS OUR SMTP PORT ENUMERATION.
+
+************&&&&&&&&&&&&&&***********&&&&&&&&&&&&&&&**********************&&&&&&&&&&&&&&&&&&&&&&*********************&&&&&&&&&&&&&&&&&&&&
