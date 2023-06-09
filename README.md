@@ -22,3 +22,4 @@ STEP 3:
 Now we open up our metasploit frame.
 ![project image 3](https://github.com/Mwesigye-Nicholas/My-Ethicalhacking-projects/assets/111627142/f6a162cf-c0f5-459e-b48c-1f0c04a86589)
 
+scanning can also be done by using auxiliary module scanner for smtp in metasploit
