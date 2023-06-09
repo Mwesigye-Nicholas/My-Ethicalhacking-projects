@@ -4,3 +4,4 @@ I am Mwesigye Nicholas I graduated as un orthopeadic medical clinicial from Muga
 from then I decided to enter tech and my goal from then was to be the best version of myself in Ethical hacking and software engineering.
 growing in a third world country where techology is just developing, demand for software engineers increasing and cyber-attacks increasing I decided to specialise in these two areas 
 so as to design customised software and protect my country against cyber-attacks
+![nicho](https://github.com/Mwesigye-Nicholas/My-Ethicalhacking-projects/assets/111627142/0c34441b-4c90-4ea2-8c23-306bbad19313)
