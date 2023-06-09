@@ -27,3 +27,5 @@ scanning can also be done by using auxiliary module scanner for smtp in metasplo
 
 STEP 4:
 Now i search the smtp specific scripts in the auxiliary module
+![project image 5](https://github.com/Mwesigye-Nicholas/My-Ethicalhacking-projects/assets/111627142/c935b5df-2bdf-478c-bcfc-a12fa5eaa202)
+
