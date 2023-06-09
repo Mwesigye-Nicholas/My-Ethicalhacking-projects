@@ -8,7 +8,11 @@ so as to design customised software and protect my country against cyber-attacks
 I build my hacking lab containing metasploitable2, windows 10 xp, kali and parrot machines.
 I will be starting my hacking project with exploiting the metasploitable2 machine.
 
-I start by attacking the smtp protocol running on port 25 on my target machine.
-I start by ping to see whether the machine is up and i can get reply from it.
+STEP 1:
+I started by attacking the smtp protocol running on port 25 on my target machine.
+I started by pinging the target machine to see whether the machine is up.
 
 ![project image 1](https://github.com/Mwesigye-Nicholas/My-Ethicalhacking-projects/assets/111627142/a022eaa5-3426-4768-845f-ec7b74d62667)
+
+STEP 2:
+Scanning the target machine targetting specifically port 25 to confirm that its running smtp because sometime misconfigurations can occur.
