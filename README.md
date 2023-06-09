@@ -17,3 +17,6 @@ I started by pinging the target machine to see whether the machine is up.
 STEP 2:
 Scanning the target machine targetting specifically port 25 to confirm that its running smtp because sometime misconfigurations can occur.
 ![project image 2](https://github.com/Mwesigye-Nicholas/My-Ethicalhacking-projects/assets/111627142/fd39de75-cf73-46b0-b58f-1138256eeb10)
+
+STEP 3:
+Now we open up our metasploit frame.
