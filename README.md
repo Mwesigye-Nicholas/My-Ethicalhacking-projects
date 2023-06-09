@@ -35,3 +35,6 @@ Then we use the smtp_enum which allows us to enumerate users which is located on
 
 STEP 6:
 I open up another terminal and use the netcat(nc) command which help us establish connection,followed the ip address of the target and the port machine its listening the service on .smtp uses some commands on of which is the VRFY command that allows use to verify users, we verify one which turn to be in the target machine database and the Nicholas that turns out not to be.
+
+![project image 7](https://github.com/Mwesigye-Nicholas/My-Ethicalhacking-projects/assets/111627142/eea42160-bb9e-4730-946f-0edff155db6c)
+
