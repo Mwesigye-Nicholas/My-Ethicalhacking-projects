@@ -25,3 +25,5 @@ Now we open up our metasploit frame.
 scanning can also be done by using auxiliary module scanner for smtp in metasploit
 ![project image 4](https://github.com/Mwesigye-Nicholas/My-Ethicalhacking-projects/assets/111627142/efc09cf8-21c8-457a-8074-27d622f23eb0)
 
+STEP 4:
+Now i search the smtp specific scripts in the auxiliary module
