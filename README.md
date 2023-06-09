@@ -30,6 +30,6 @@ Now i search the smtp specific scripts in the auxiliary module
 ![project image 5](https://github.com/Mwesigye-Nicholas/My-Ethicalhacking-projects/assets/111627142/c935b5df-2bdf-478c-bcfc-a12fa5eaa202)
 
 STEP 5:
-Then we use the smtp_enum which allows us to enumerate users which is located on number 25.
+Then we use the smtp_enum which allows us to enumerate users which is located on number 25 and we setup the missing arguments.
 ![project image 6](https://github.com/Mwesigye-Nicholas/My-Ethicalhacking-projects/assets/111627142/444b2568-7f03-40d3-b3e6-15efb03ab260)
 
