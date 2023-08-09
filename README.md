@@ -41,3 +41,10 @@ I open up another terminal and use the netcat(nc) command which help us establis
 THIS ENDS OUR SMTP PORT ENUMERATION.
 
 ************&&&&&&&&&&&&&&***********&&&&&&&&&&&&&&&**********************&&&&&&&&&&&&&&&&&&&&&&*********************&&&&&&&&&&&&&&&&&&&&
+
+
+ANOTHER PORT THAT WE WILL BE ATTACKING IS PORT 8018, THAT RUNS APACHE TOMCAT:
+  Here we shall follow all the steps of hacking in order to gain access to the machine, and we shall see what we can do after gaining the access.
+
+  STEP 1:
+   We start with a a ping swipe scan, this detects available hosts on the network does nothing else.
