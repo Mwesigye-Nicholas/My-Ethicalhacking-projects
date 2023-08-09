@@ -44,10 +44,16 @@ THIS ENDS OUR SMTP PORT ENUMERATION.
 
 
 ANOTHER PORT THAT WE WILL BE ATTACKING IS PORT 8018, THAT RUNS APACHE TOMCAT:
+I will using nmap and kali linux msfconsole
+
   Here we shall follow all the steps of hacking in order to gain access to the machine, and we shall see what we can do after gaining the access.
 
   STEP 1:
    We start with a a ping swipe scan, this detects available hosts on the network does nothing else.
 ![apache step 1](https://github.com/Mwesigye-Nicholas/My-Ethicalhacking-projects/assets/111627142/0c15d87f-d465-4089-bc17-fa58a0aaad25)
+
+  STEP 2:
+
+    We do a service detection, to detect which services are running on the target machine.
 
    
