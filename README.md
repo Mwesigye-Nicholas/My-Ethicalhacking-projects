@@ -60,4 +60,7 @@ I will using nmap and kali linux msfconsole
 
 STEP 3:
 Next we do a vunerability analysis using the vuln module for nmap.
+![apache step 3](https://github.com/Mwesigye-Nicholas/My-Ethicalhacking-projects/assets/111627142/df5be9c6-2d95-4189-84d6-b49a29c32e9d)
+
+
    
