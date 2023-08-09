@@ -56,5 +56,6 @@ I will using nmap and kali linux msfconsole
 
     We do a service detection, to detect which services are running on the target machine.
     
+![apache step 2](https://github.com/Mwesigye-Nicholas/My-Ethicalhacking-projects/assets/111627142/39f62dab-4b68-461a-ab74-3b7c784002a8)
 
    
